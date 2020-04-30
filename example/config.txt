@@ -1,0 +1,2 @@
+Prefix plugins/CSVLast2First/example/
+Plugin CSVLast2First inputfile star.csv outputfile star.l2f.csv
