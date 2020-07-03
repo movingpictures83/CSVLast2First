@@ -2,7 +2,8 @@
 # Language: Python
 # Input: CSV
 # Output: CSV
-# Tested with: PluMA 1.0, Python 3.6
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: numpy==1.16.0
 
 A PluMA plugin that takes the last column of a CSV file and
 makes it the first.
